@@ -1,3 +1,3 @@
 # HarvardX Lessons Web Development
-Это мой проект для уроков веб-разработки.
+Web Programming with Python and Javascript
 
